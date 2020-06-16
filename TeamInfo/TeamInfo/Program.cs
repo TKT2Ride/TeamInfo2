@@ -17,6 +17,7 @@ namespace TeamInfo
         {
             Console.Write("Grant, New Berlin High School, socks");
             Console.WriteLine("Sneha, Brookfield Central High School, ugly socks");
+            Console.WriteLine("Preston, Brookfield Central High School, small sized shirt");
             Console.ReadLine();
 
             
