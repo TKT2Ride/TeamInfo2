@@ -15,8 +15,11 @@ namespace TeamInfo
         //And Delete a part of another teammate's code
         static void Main(string[] args)
         {
+            Console.Write("Grant, New Berlin High School, socks");
             Console.WriteLine("Sneha, Brookfield Central High School, ugly socks");
             Console.ReadLine();
+
+            
         }
     }
 }
